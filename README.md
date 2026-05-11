@@ -47,7 +47,6 @@ Replaces the page that will not be used for the longest duration in the future.
 ## Project Structure
 
 ```bash
-.
 ├── images
         └── home.png
         └── simulation.png  
